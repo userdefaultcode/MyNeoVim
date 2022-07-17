@@ -1,3 +1,3 @@
 # MyNeoVim
 
-![fish screenshot](./img/print.png)
+![fish screenshot](./img/print.jpg)
